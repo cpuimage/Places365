@@ -1,5 +1,5 @@
 # Places365
-Places365-CNNs (GoogleNet) implementation base on NCNN
+The Places365-CNNs for Scene Classification implementation base on NCNN
 
 The data Places365-Standard and Places365-Challenge are released at [Places2 website](http://places2.csail.mit.edu).
  
