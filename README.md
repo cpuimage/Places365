@@ -15,7 +15,7 @@ Advances in Neural Information Processing Systems 27 (NIPS), 2014.
 ```
 Places: An Image Database for Deep Scene Understanding.
 B. Zhou, A. Khosla, A. Lapedriza, A. Torralba and A. Oliva
-Arxiv, 2016 (pdf coming soon)
+Arxiv, 2016
 ```
 
 # Donating
