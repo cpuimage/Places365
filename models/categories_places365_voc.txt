@@ -1,0 +1,2190 @@
+item {
+  name: "/a/airfield"
+  label: 0
+  display_name: "airfield"
+  environment: 2
+}
+item {
+  name: "/a/airplane_cabin"
+  label: 1
+  display_name: "airplane_cabin"
+  environment: 1
+}
+item {
+  name: "/a/airport_terminal"
+  label: 2
+  display_name: "airport_terminal"
+  environment: 1
+}
+item {
+  name: "/a/alcove"
+  label: 3
+  display_name: "alcove"
+  environment: 1
+}
+item {
+  name: "/a/alley"
+  label: 4
+  display_name: "alley"
+  environment: 2
+}
+item {
+  name: "/a/amphitheater"
+  label: 5
+  display_name: "amphitheater"
+  environment: 2
+}
+item {
+  name: "/a/amusement_arcade"
+  label: 6
+  display_name: "amusement_arcade"
+  environment: 1
+}
+item {
+  name: "/a/amusement_park"
+  label: 7
+  display_name: "amusement_park"
+  environment: 2
+}
+item {
+  name: "/a/apartment_building/outdoor"
+  label: 8
+  display_name: "apartment_building-outdoor"
+  environment: 2
+}
+item {
+  name: "/a/aquarium"
+  label: 9
+  display_name: "aquarium"
+  environment: 1
+}
+item {
+  name: "/a/aqueduct"
+  label: 10
+  display_name: "aqueduct"
+  environment: 2
+}
+item {
+  name: "/a/arcade"
+  label: 11
+  display_name: "arcade"
+  environment: 1
+}
+item {
+  name: "/a/arch"
+  label: 12
+  display_name: "arch"
+  environment: 2
+}
+item {
+  name: "/a/archaelogical_excavation"
+  label: 13
+  display_name: "archaelogical_excavation"
+  environment: 1
+}
+item {
+  name: "/a/archive"
+  label: 14
+  display_name: "archive"
+  environment: 1
+}
+item {
+  name: "/a/arena/hockey"
+  label: 15
+  display_name: "arena-hockey"
+  environment: 1
+}
+item {
+  name: "/a/arena/performance"
+  label: 16
+  display_name: "arena-performance"
+  environment: 1
+}
+item {
+  name: "/a/arena/rodeo"
+  label: 17
+  display_name: "arena-rodeo"
+  environment: 1
+}
+item {
+  name: "/a/army_base"
+  label: 18
+  display_name: "army_base"
+  environment: 2
+}
+item {
+  name: "/a/art_gallery"
+  label: 19
+  display_name: "art_gallery"
+  environment: 1
+}
+item {
+  name: "/a/art_school"
+  label: 20
+  display_name: "art_school"
+  environment: 1
+}
+item {
+  name: "/a/art_studio"
+  label: 21
+  display_name: "art_studio"
+  environment: 1
+}
+item {
+  name: "/a/artists_loft"
+  label: 22
+  display_name: "artists_loft"
+  environment: 1
+}
+item {
+  name: "/a/assembly_line"
+  label: 23
+  display_name: "assembly_line"
+  environment: 1
+}
+item {
+  name: "/a/athletic_field/outdoor"
+  label: 24
+  display_name: "athletic_field-outdoor"
+  environment: 2
+}
+item {
+  name: "/a/atrium/public"
+  label: 25
+  display_name: "atrium-public"
+  environment: 1
+}
+item {
+  name: "/a/attic"
+  label: 26
+  display_name: "attic"
+  environment: 1
+}
+item {
+  name: "/a/auditorium"
+  label: 27
+  display_name: "auditorium"
+  environment: 1
+}
+item {
+  name: "/a/auto_factory"
+  label: 28
+  display_name: "auto_factory"
+  environment: 1
+}
+item {
+  name: "/a/auto_showroom"
+  label: 29
+  display_name: "auto_showroom"
+  environment: 1
+}
+item {
+  name: "/b/badlands"
+  label: 30
+  display_name: "badlands"
+  environment: 2
+}
+item {
+  name: "/b/bakery/shop"
+  label: 31
+  display_name: "bakery-shop"
+  environment: 1
+}
+item {
+  name: "/b/balcony/exterior"
+  label: 32
+  display_name: "balcony-exterior"
+  environment: 2
+}
+item {
+  name: "/b/balcony/interior"
+  label: 33
+  display_name: "balcony-interior"
+  environment: 2
+}
+item {
+  name: "/b/ball_pit"
+  label: 34
+  display_name: "ball_pit"
+  environment: 1
+}
+item {
+  name: "/b/ballroom"
+  label: 35
+  display_name: "ballroom"
+  environment: 1
+}
+item {
+  name: "/b/bamboo_forest"
+  label: 36
+  display_name: "bamboo_forest"
+  environment: 2
+}
+item {
+  name: "/b/bank_vault"
+  label: 37
+  display_name: "bank_vault"
+  environment: 1
+}
+item {
+  name: "/b/banquet_hall"
+  label: 38
+  display_name: "banquet_hall"
+  environment: 1
+}
+item {
+  name: "/b/bar"
+  label: 39
+  display_name: "bar"
+  environment: 1
+}
+item {
+  name: "/b/barn"
+  label: 40
+  display_name: "barn"
+  environment: 2
+}
+item {
+  name: "/b/barndoor"
+  label: 41
+  display_name: "barndoor"
+  environment: 2
+}
+item {
+  name: "/b/baseball_field"
+  label: 42
+  display_name: "baseball_field"
+  environment: 2
+}
+item {
+  name: "/b/basement"
+  label: 43
+  display_name: "basement"
+  environment: 1
+}
+item {
+  name: "/b/basketball_court/indoor"
+  label: 44
+  display_name: "basketball_court-indoor"
+  environment: 1
+}
+item {
+  name: "/b/bathroom"
+  label: 45
+  display_name: "bathroom"
+  environment: 1
+}
+item {
+  name: "/b/bazaar/indoor"
+  label: 46
+  display_name: "bazaar-indoor"
+  environment: 1
+}
+item {
+  name: "/b/bazaar/outdoor"
+  label: 47
+  display_name: "bazaar-outdoor"
+  environment: 2
+}
+item {
+  name: "/b/beach"
+  label: 48
+  display_name: "beach"
+  environment: 2
+}
+item {
+  name: "/b/beach_house"
+  label: 49
+  display_name: "beach_house"
+  environment: 2
+}
+item {
+  name: "/b/beauty_salon"
+  label: 50
+  display_name: "beauty_salon"
+  environment: 1
+}
+item {
+  name: "/b/bedchamber"
+  label: 51
+  display_name: "bedchamber"
+  environment: 1
+}
+item {
+  name: "/b/bedroom"
+  label: 52
+  display_name: "bedroom"
+  environment: 1
+}
+item {
+  name: "/b/beer_garden"
+  label: 53
+  display_name: "beer_garden"
+  environment: 2
+}
+item {
+  name: "/b/beer_hall"
+  label: 54
+  display_name: "beer_hall"
+  environment: 1
+}
+item {
+  name: "/b/berth"
+  label: 55
+  display_name: "berth"
+  environment: 1
+}
+item {
+  name: "/b/biology_laboratory"
+  label: 56
+  display_name: "biology_laboratory"
+  environment: 1
+}
+item {
+  name: "/b/boardwalk"
+  label: 57
+  display_name: "boardwalk"
+  environment: 2
+}
+item {
+  name: "/b/boat_deck"
+  label: 58
+  display_name: "boat_deck"
+  environment: 2
+}
+item {
+  name: "/b/boathouse"
+  label: 59
+  display_name: "boathouse"
+  environment: 2
+}
+item {
+  name: "/b/bookstore"
+  label: 60
+  display_name: "bookstore"
+  environment: 1
+}
+item {
+  name: "/b/booth/indoor"
+  label: 61
+  display_name: "booth-indoor"
+  environment: 1
+}
+item {
+  name: "/b/botanical_garden"
+  label: 62
+  display_name: "botanical_garden"
+  environment: 2
+}
+item {
+  name: "/b/bow_window/indoor"
+  label: 63
+  display_name: "bow_window-indoor"
+  environment: 1
+}
+item {
+  name: "/b/bowling_alley"
+  label: 64
+  display_name: "bowling_alley"
+  environment: 1
+}
+item {
+  name: "/b/boxing_ring"
+  label: 65
+  display_name: "boxing_ring"
+  environment: 1
+}
+item {
+  name: "/b/bridge"
+  label: 66
+  display_name: "bridge"
+  environment: 2
+}
+item {
+  name: "/b/building_facade"
+  label: 67
+  display_name: "building_facade"
+  environment: 2
+}
+item {
+  name: "/b/bullring"
+  label: 68
+  display_name: "bullring"
+  environment: 2
+}
+item {
+  name: "/b/burial_chamber"
+  label: 69
+  display_name: "burial_chamber"
+  environment: 1
+}
+item {
+  name: "/b/bus_interior"
+  label: 70
+  display_name: "bus_interior"
+  environment: 1
+}
+item {
+  name: "/b/bus_station/indoor"
+  label: 71
+  display_name: "bus_station-indoor"
+  environment: 2
+}
+item {
+  name: "/b/butchers_shop"
+  label: 72
+  display_name: "butchers_shop"
+  environment: 1
+}
+item {
+  name: "/b/butte"
+  label: 73
+  display_name: "butte"
+  environment: 2
+}
+item {
+  name: "/c/cabin/outdoor"
+  label: 74
+  display_name: "cabin-outdoor"
+  environment: 2
+}
+item {
+  name: "/c/cafeteria"
+  label: 75
+  display_name: "cafeteria"
+  environment: 1
+}
+item {
+  name: "/c/campsite"
+  label: 76
+  display_name: "campsite"
+  environment: 2
+}
+item {
+  name: "/c/campus"
+  label: 77
+  display_name: "campus"
+  environment: 2
+}
+item {
+  name: "/c/canal/natural"
+  label: 78
+  display_name: "canal-natural"
+  environment: 2
+}
+item {
+  name: "/c/canal/urban"
+  label: 79
+  display_name: "canal-urban"
+  environment: 2
+}
+item {
+  name: "/c/candy_store"
+  label: 80
+  display_name: "candy_store"
+  environment: 1
+}
+item {
+  name: "/c/canyon"
+  label: 81
+  display_name: "canyon"
+  environment: 2
+}
+item {
+  name: "/c/car_interior"
+  label: 82
+  display_name: "car_interior"
+  environment: 1
+}
+item {
+  name: "/c/carrousel"
+  label: 83
+  display_name: "carrousel"
+  environment: 2
+}
+item {
+  name: "/c/castle"
+  label: 84
+  display_name: "castle"
+  environment: 2
+}
+item {
+  name: "/c/catacomb"
+  label: 85
+  display_name: "catacomb"
+  environment: 1
+}
+item {
+  name: "/c/cemetery"
+  label: 86
+  display_name: "cemetery"
+  environment: 2
+}
+item {
+  name: "/c/chalet"
+  label: 87
+  display_name: "chalet"
+  environment: 2
+}
+item {
+  name: "/c/chemistry_lab"
+  label: 88
+  display_name: "chemistry_lab"
+  environment: 1
+}
+item {
+  name: "/c/childs_room"
+  label: 89
+  display_name: "childs_room"
+  environment: 1
+}
+item {
+  name: "/c/church/indoor"
+  label: 90
+  display_name: "church-indoor"
+  environment: 1
+}
+item {
+  name: "/c/church/outdoor"
+  label: 91
+  display_name: "church-outdoor"
+  environment: 2
+}
+item {
+  name: "/c/classroom"
+  label: 92
+  display_name: "classroom"
+  environment: 1
+}
+item {
+  name: "/c/clean_room"
+  label: 93
+  display_name: "clean_room"
+  environment: 1
+}
+item {
+  name: "/c/cliff"
+  label: 94
+  display_name: "cliff"
+  environment: 2
+}
+item {
+  name: "/c/closet"
+  label: 95
+  display_name: "closet"
+  environment: 1
+}
+item {
+  name: "/c/clothing_store"
+  label: 96
+  display_name: "clothing_store"
+  environment: 1
+}
+item {
+  name: "/c/coast"
+  label: 97
+  display_name: "coast"
+  environment: 2
+}
+item {
+  name: "/c/cockpit"
+  label: 98
+  display_name: "cockpit"
+  environment: 1
+}
+item {
+  name: "/c/coffee_shop"
+  label: 99
+  display_name: "coffee_shop"
+  environment: 1
+}
+item {
+  name: "/c/computer_room"
+  label: 100
+  display_name: "computer_room"
+  environment: 1
+}
+item {
+  name: "/c/conference_center"
+  label: 101
+  display_name: "conference_center"
+  environment: 1
+}
+item {
+  name: "/c/conference_room"
+  label: 102
+  display_name: "conference_room"
+  environment: 1
+}
+item {
+  name: "/c/construction_site"
+  label: 103
+  display_name: "construction_site"
+  environment: 2
+}
+item {
+  name: "/c/corn_field"
+  label: 104
+  display_name: "corn_field"
+  environment: 2
+}
+item {
+  name: "/c/corral"
+  label: 105
+  display_name: "corral"
+  environment: 2
+}
+item {
+  name: "/c/corridor"
+  label: 106
+  display_name: "corridor"
+  environment: 1
+}
+item {
+  name: "/c/cottage"
+  label: 107
+  display_name: "cottage"
+  environment: 2
+}
+item {
+  name: "/c/courthouse"
+  label: 108
+  display_name: "courthouse"
+  environment: 2
+}
+item {
+  name: "/c/courtyard"
+  label: 109
+  display_name: "courtyard"
+  environment: 2
+}
+item {
+  name: "/c/creek"
+  label: 110
+  display_name: "creek"
+  environment: 2
+}
+item {
+  name: "/c/crevasse"
+  label: 111
+  display_name: "crevasse"
+  environment: 2
+}
+item {
+  name: "/c/crosswalk"
+  label: 112
+  display_name: "crosswalk"
+  environment: 2
+}
+item {
+  name: "/d/dam"
+  label: 113
+  display_name: "dam"
+  environment: 2
+}
+item {
+  name: "/d/delicatessen"
+  label: 114
+  display_name: "delicatessen"
+  environment: 1
+}
+item {
+  name: "/d/department_store"
+  label: 115
+  display_name: "department_store"
+  environment: 1
+}
+item {
+  name: "/d/desert/sand"
+  label: 116
+  display_name: "desert-sand"
+  environment: 2
+}
+item {
+  name: "/d/desert/vegetation"
+  label: 117
+  display_name: "desert-vegetation"
+  environment: 2
+}
+item {
+  name: "/d/desert_road"
+  label: 118
+  display_name: "desert_road"
+  environment: 2
+}
+item {
+  name: "/d/diner/outdoor"
+  label: 119
+  display_name: "diner-outdoor"
+  environment: 2
+}
+item {
+  name: "/d/dining_hall"
+  label: 120
+  display_name: "dining_hall"
+  environment: 1
+}
+item {
+  name: "/d/dining_room"
+  label: 121
+  display_name: "dining_room"
+  environment: 1
+}
+item {
+  name: "/d/discotheque"
+  label: 122
+  display_name: "discotheque"
+  environment: 1
+}
+item {
+  name: "/d/doorway/outdoor"
+  label: 123
+  display_name: "doorway-outdoor"
+  environment: 2
+}
+item {
+  name: "/d/dorm_room"
+  label: 124
+  display_name: "dorm_room"
+  environment: 1
+}
+item {
+  name: "/d/downtown"
+  label: 125
+  display_name: "downtown"
+  environment: 2
+}
+item {
+  name: "/d/dressing_room"
+  label: 126
+  display_name: "dressing_room"
+  environment: 1
+}
+item {
+  name: "/d/driveway"
+  label: 127
+  display_name: "driveway"
+  environment: 2
+}
+item {
+  name: "/d/drugstore"
+  label: 128
+  display_name: "drugstore"
+  environment: 1
+}
+item {
+  name: "/e/elevator/door"
+  label: 129
+  display_name: "elevator-door"
+  environment: 1
+}
+item {
+  name: "/e/elevator_lobby"
+  label: 130
+  display_name: "elevator_lobby"
+  environment: 1
+}
+item {
+  name: "/e/elevator_shaft"
+  label: 131
+  display_name: "elevator_shaft"
+  environment: 1
+}
+item {
+  name: "/e/embassy"
+  label: 132
+  display_name: "embassy"
+  environment: 2
+}
+item {
+  name: "/e/engine_room"
+  label: 133
+  display_name: "engine_room"
+  environment: 1
+}
+item {
+  name: "/e/entrance_hall"
+  label: 134
+  display_name: "entrance_hall"
+  environment: 1
+}
+item {
+  name: "/e/escalator/indoor"
+  label: 135
+  display_name: "escalator-indoor"
+  environment: 1
+}
+item {
+  name: "/e/excavation"
+  label: 136
+  display_name: "excavation"
+  environment: 2
+}
+item {
+  name: "/f/fabric_store"
+  label: 137
+  display_name: "fabric_store"
+  environment: 1
+}
+item {
+  name: "/f/farm"
+  label: 138
+  display_name: "farm"
+  environment: 2
+}
+item {
+  name: "/f/fastfood_restaurant"
+  label: 139
+  display_name: "fastfood_restaurant"
+  environment: 1
+}
+item {
+  name: "/f/field/cultivated"
+  label: 140
+  display_name: "field-cultivated"
+  environment: 2
+}
+item {
+  name: "/f/field/wild"
+  label: 141
+  display_name: "field-wild"
+  environment: 2
+}
+item {
+  name: "/f/field_road"
+  label: 142
+  display_name: "field_road"
+  environment: 2
+}
+item {
+  name: "/f/fire_escape"
+  label: 143
+  display_name: "fire_escape"
+  environment: 2
+}
+item {
+  name: "/f/fire_station"
+  label: 144
+  display_name: "fire_station"
+  environment: 2
+}
+item {
+  name: "/f/fishpond"
+  label: 145
+  display_name: "fishpond"
+  environment: 2
+}
+item {
+  name: "/f/flea_market/indoor"
+  label: 146
+  display_name: "flea_market-indoor"
+  environment: 1
+}
+item {
+  name: "/f/florist_shop/indoor"
+  label: 147
+  display_name: "florist_shop-indoor"
+  environment: 1
+}
+item {
+  name: "/f/food_court"
+  label: 148
+  display_name: "food_court"
+  environment: 1
+}
+item {
+  name: "/f/football_field"
+  label: 149
+  display_name: "football_field"
+  environment: 2
+}
+item {
+  name: "/f/forest/broadleaf"
+  label: 150
+  display_name: "forest-broadleaf"
+  environment: 2
+}
+item {
+  name: "/f/forest_path"
+  label: 151
+  display_name: "forest_path"
+  environment: 2
+}
+item {
+  name: "/f/forest_road"
+  label: 152
+  display_name: "forest_road"
+  environment: 2
+}
+item {
+  name: "/f/formal_garden"
+  label: 153
+  display_name: "formal_garden"
+  environment: 2
+}
+item {
+  name: "/f/fountain"
+  label: 154
+  display_name: "fountain"
+  environment: 2
+}
+item {
+  name: "/g/galley"
+  label: 155
+  display_name: "galley"
+  environment: 1
+}
+item {
+  name: "/g/garage/indoor"
+  label: 156
+  display_name: "garage-indoor"
+  environment: 1
+}
+item {
+  name: "/g/garage/outdoor"
+  label: 157
+  display_name: "garage-outdoor"
+  environment: 2
+}
+item {
+  name: "/g/gas_station"
+  label: 158
+  display_name: "gas_station"
+  environment: 2
+}
+item {
+  name: "/g/gazebo/exterior"
+  label: 159
+  display_name: "gazebo-exterior"
+  environment: 2
+}
+item {
+  name: "/g/general_store/indoor"
+  label: 160
+  display_name: "general_store-indoor"
+  environment: 1
+}
+item {
+  name: "/g/general_store/outdoor"
+  label: 161
+  display_name: "general_store-outdoor"
+  environment: 2
+}
+item {
+  name: "/g/gift_shop"
+  label: 162
+  display_name: "gift_shop"
+  environment: 1
+}
+item {
+  name: "/g/glacier"
+  label: 163
+  display_name: "glacier"
+  environment: 2
+}
+item {
+  name: "/g/golf_course"
+  label: 164
+  display_name: "golf_course"
+  environment: 2
+}
+item {
+  name: "/g/greenhouse/indoor"
+  label: 165
+  display_name: "greenhouse-indoor"
+  environment: 1
+}
+item {
+  name: "/g/greenhouse/outdoor"
+  label: 166
+  display_name: "greenhouse-outdoor"
+  environment: 2
+}
+item {
+  name: "/g/grotto"
+  label: 167
+  display_name: "grotto"
+  environment: 2
+}
+item {
+  name: "/g/gymnasium/indoor"
+  label: 168
+  display_name: "gymnasium-indoor"
+  environment: 1
+}
+item {
+  name: "/h/hangar/indoor"
+  label: 169
+  display_name: "hangar-indoor"
+  environment: 1
+}
+item {
+  name: "/h/hangar/outdoor"
+  label: 170
+  display_name: "hangar-outdoor"
+  environment: 2
+}
+item {
+  name: "/h/harbor"
+  label: 171
+  display_name: "harbor"
+  environment: 2
+}
+item {
+  name: "/h/hardware_store"
+  label: 172
+  display_name: "hardware_store"
+  environment: 1
+}
+item {
+  name: "/h/hayfield"
+  label: 173
+  display_name: "hayfield"
+  environment: 2
+}
+item {
+  name: "/h/heliport"
+  label: 174
+  display_name: "heliport"
+  environment: 2
+}
+item {
+  name: "/h/highway"
+  label: 175
+  display_name: "highway"
+  environment: 2
+}
+item {
+  name: "/h/home_office"
+  label: 176
+  display_name: "home_office"
+  environment: 1
+}
+item {
+  name: "/h/home_theater"
+  label: 177
+  display_name: "home_theater"
+  environment: 1
+}
+item {
+  name: "/h/hospital"
+  label: 178
+  display_name: "hospital"
+  environment: 2
+}
+item {
+  name: "/h/hospital_room"
+  label: 179
+  display_name: "hospital_room"
+  environment: 1
+}
+item {
+  name: "/h/hot_spring"
+  label: 180
+  display_name: "hot_spring"
+  environment: 2
+}
+item {
+  name: "/h/hotel/outdoor"
+  label: 181
+  display_name: "hotel-outdoor"
+  environment: 2
+}
+item {
+  name: "/h/hotel_room"
+  label: 182
+  display_name: "hotel_room"
+  environment: 1
+}
+item {
+  name: "/h/house"
+  label: 183
+  display_name: "house"
+  environment: 2
+}
+item {
+  name: "/h/hunting_lodge/outdoor"
+  label: 184
+  display_name: "hunting_lodge-outdoor"
+  environment: 2
+}
+item {
+  name: "/i/ice_cream_parlor"
+  label: 185
+  display_name: "ice_cream_parlor"
+  environment: 1
+}
+item {
+  name: "/i/ice_floe"
+  label: 186
+  display_name: "ice_floe"
+  environment: 2
+}
+item {
+  name: "/i/ice_shelf"
+  label: 187
+  display_name: "ice_shelf"
+  environment: 2
+}
+item {
+  name: "/i/ice_skating_rink/indoor"
+  label: 188
+  display_name: "ice_skating_rink-indoor"
+  environment: 1
+}
+item {
+  name: "/i/ice_skating_rink/outdoor"
+  label: 189
+  display_name: "ice_skating_rink-outdoor"
+  environment: 2
+}
+item {
+  name: "/i/iceberg"
+  label: 190
+  display_name: "iceberg"
+  environment: 2
+}
+item {
+  name: "/i/igloo"
+  label: 191
+  display_name: "igloo"
+  environment: 2
+}
+item {
+  name: "/i/industrial_area"
+  label: 192
+  display_name: "industrial_area"
+  environment: 2
+}
+item {
+  name: "/i/inn/outdoor"
+  label: 193
+  display_name: "inn-outdoor"
+  environment: 2
+}
+item {
+  name: "/i/islet"
+  label: 194
+  display_name: "islet"
+  environment: 2
+}
+item {
+  name: "/j/jacuzzi/indoor"
+  label: 195
+  display_name: "jacuzzi-indoor"
+  environment: 1
+}
+item {
+  name: "/j/jail_cell"
+  label: 196
+  display_name: "jail_cell"
+  environment: 1
+}
+item {
+  name: "/j/japanese_garden"
+  label: 197
+  display_name: "japanese_garden"
+  environment: 2
+}
+item {
+  name: "/j/jewelry_shop"
+  label: 198
+  display_name: "jewelry_shop"
+  environment: 1
+}
+item {
+  name: "/j/junkyard"
+  label: 199
+  display_name: "junkyard"
+  environment: 2
+}
+item {
+  name: "/k/kasbah"
+  label: 200
+  display_name: "kasbah"
+  environment: 2
+}
+item {
+  name: "/k/kennel/outdoor"
+  label: 201
+  display_name: "kennel-outdoor"
+  environment: 2
+}
+item {
+  name: "/k/kindergarden_classroom"
+  label: 202
+  display_name: "kindergarden_classroom"
+  environment: 1
+}
+item {
+  name: "/k/kitchen"
+  label: 203
+  display_name: "kitchen"
+  environment: 1
+}
+item {
+  name: "/l/lagoon"
+  label: 204
+  display_name: "lagoon"
+  environment: 2
+}
+item {
+  name: "/l/lake/natural"
+  label: 205
+  display_name: "lake-natural"
+  environment: 2
+}
+item {
+  name: "/l/landfill"
+  label: 206
+  display_name: "landfill"
+  environment: 2
+}
+item {
+  name: "/l/landing_deck"
+  label: 207
+  display_name: "landing_deck"
+  environment: 2
+}
+item {
+  name: "/l/laundromat"
+  label: 208
+  display_name: "laundromat"
+  environment: 1
+}
+item {
+  name: "/l/lawn"
+  label: 209
+  display_name: "lawn"
+  environment: 2
+}
+item {
+  name: "/l/lecture_room"
+  label: 210
+  display_name: "lecture_room"
+  environment: 1
+}
+item {
+  name: "/l/legislative_chamber"
+  label: 211
+  display_name: "legislative_chamber"
+  environment: 1
+}
+item {
+  name: "/l/library/indoor"
+  label: 212
+  display_name: "library-indoor"
+  environment: 1
+}
+item {
+  name: "/l/library/outdoor"
+  label: 213
+  display_name: "library-outdoor"
+  environment: 2
+}
+item {
+  name: "/l/lighthouse"
+  label: 214
+  display_name: "lighthouse"
+  environment: 2
+}
+item {
+  name: "/l/living_room"
+  label: 215
+  display_name: "living_room"
+  environment: 1
+}
+item {
+  name: "/l/loading_dock"
+  label: 216
+  display_name: "loading_dock"
+  environment: 2
+}
+item {
+  name: "/l/lobby"
+  label: 217
+  display_name: "lobby"
+  environment: 1
+}
+item {
+  name: "/l/lock_chamber"
+  label: 218
+  display_name: "lock_chamber"
+  environment: 2
+}
+item {
+  name: "/l/locker_room"
+  label: 219
+  display_name: "locker_room"
+  environment: 1
+}
+item {
+  name: "/m/mansion"
+  label: 220
+  display_name: "mansion"
+  environment: 2
+}
+item {
+  name: "/m/manufactured_home"
+  label: 221
+  display_name: "manufactured_home"
+  environment: 2
+}
+item {
+  name: "/m/market/indoor"
+  label: 222
+  display_name: "market-indoor"
+  environment: 1
+}
+item {
+  name: "/m/market/outdoor"
+  label: 223
+  display_name: "market-outdoor"
+  environment: 2
+}
+item {
+  name: "/m/marsh"
+  label: 224
+  display_name: "marsh"
+  environment: 2
+}
+item {
+  name: "/m/martial_arts_gym"
+  label: 225
+  display_name: "martial_arts_gym"
+  environment: 1
+}
+item {
+  name: "/m/mausoleum"
+  label: 226
+  display_name: "mausoleum"
+  environment: 2
+}
+item {
+  name: "/m/medina"
+  label: 227
+  display_name: "medina"
+  environment: 2
+}
+item {
+  name: "/m/mezzanine"
+  label: 228
+  display_name: "mezzanine"
+  environment: 1
+}
+item {
+  name: "/m/moat/water"
+  label: 229
+  display_name: "moat-water"
+  environment: 2
+}
+item {
+  name: "/m/mosque/outdoor"
+  label: 230
+  display_name: "mosque-outdoor"
+  environment: 2
+}
+item {
+  name: "/m/motel"
+  label: 231
+  display_name: "motel"
+  environment: 2
+}
+item {
+  name: "/m/mountain"
+  label: 232
+  display_name: "mountain"
+  environment: 2
+}
+item {
+  name: "/m/mountain_path"
+  label: 233
+  display_name: "mountain_path"
+  environment: 2
+}
+item {
+  name: "/m/mountain_snowy"
+  label: 234
+  display_name: "mountain_snowy"
+  environment: 2
+}
+item {
+  name: "/m/movie_theater/indoor"
+  label: 235
+  display_name: "movie_theater-indoor"
+  environment: 1
+}
+item {
+  name: "/m/museum/indoor"
+  label: 236
+  display_name: "museum-indoor"
+  environment: 1
+}
+item {
+  name: "/m/museum/outdoor"
+  label: 237
+  display_name: "museum-outdoor"
+  environment: 2
+}
+item {
+  name: "/m/music_studio"
+  label: 238
+  display_name: "music_studio"
+  environment: 1
+}
+item {
+  name: "/n/natural_history_museum"
+  label: 239
+  display_name: "natural_history_museum"
+  environment: 1
+}
+item {
+  name: "/n/nursery"
+  label: 240
+  display_name: "nursery"
+  environment: 1
+}
+item {
+  name: "/n/nursing_home"
+  label: 241
+  display_name: "nursing_home"
+  environment: 1
+}
+item {
+  name: "/o/oast_house"
+  label: 242
+  display_name: "oast_house"
+  environment: 2
+}
+item {
+  name: "/o/ocean"
+  label: 243
+  display_name: "ocean"
+  environment: 2
+}
+item {
+  name: "/o/office"
+  label: 244
+  display_name: "office"
+  environment: 1
+}
+item {
+  name: "/o/office_building"
+  label: 245
+  display_name: "office_building"
+  environment: 2
+}
+item {
+  name: "/o/office_cubicles"
+  label: 246
+  display_name: "office_cubicles"
+  environment: 1
+}
+item {
+  name: "/o/oilrig"
+  label: 247
+  display_name: "oilrig"
+  environment: 2
+}
+item {
+  name: "/o/operating_room"
+  label: 248
+  display_name: "operating_room"
+  environment: 1
+}
+item {
+  name: "/o/orchard"
+  label: 249
+  display_name: "orchard"
+  environment: 2
+}
+item {
+  name: "/o/orchestra_pit"
+  label: 250
+  display_name: "orchestra_pit"
+  environment: 1
+}
+item {
+  name: "/p/pagoda"
+  label: 251
+  display_name: "pagoda"
+  environment: 2
+}
+item {
+  name: "/p/palace"
+  label: 252
+  display_name: "palace"
+  environment: 2
+}
+item {
+  name: "/p/pantry"
+  label: 253
+  display_name: "pantry"
+  environment: 1
+}
+item {
+  name: "/p/park"
+  label: 254
+  display_name: "park"
+  environment: 2
+}
+item {
+  name: "/p/parking_garage/indoor"
+  label: 255
+  display_name: "parking_garage-indoor"
+  environment: 1
+}
+item {
+  name: "/p/parking_garage/outdoor"
+  label: 256
+  display_name: "parking_garage-outdoor"
+  environment: 2
+}
+item {
+  name: "/p/parking_lot"
+  label: 257
+  display_name: "parking_lot"
+  environment: 2
+}
+item {
+  name: "/p/pasture"
+  label: 258
+  display_name: "pasture"
+  environment: 2
+}
+item {
+  name: "/p/patio"
+  label: 259
+  display_name: "patio"
+  environment: 2
+}
+item {
+  name: "/p/pavilion"
+  label: 260
+  display_name: "pavilion"
+  environment: 2
+}
+item {
+  name: "/p/pet_shop"
+  label: 261
+  display_name: "pet_shop"
+  environment: 1
+}
+item {
+  name: "/p/pharmacy"
+  label: 262
+  display_name: "pharmacy"
+  environment: 1
+}
+item {
+  name: "/p/phone_booth"
+  label: 263
+  display_name: "phone_booth"
+  environment: 2
+}
+item {
+  name: "/p/physics_laboratory"
+  label: 264
+  display_name: "physics_laboratory"
+  environment: 1
+}
+item {
+  name: "/p/picnic_area"
+  label: 265
+  display_name: "picnic_area"
+  environment: 2
+}
+item {
+  name: "/p/pier"
+  label: 266
+  display_name: "pier"
+  environment: 2
+}
+item {
+  name: "/p/pizzeria"
+  label: 267
+  display_name: "pizzeria"
+  environment: 1
+}
+item {
+  name: "/p/playground"
+  label: 268
+  display_name: "playground"
+  environment: 2
+}
+item {
+  name: "/p/playroom"
+  label: 269
+  display_name: "playroom"
+  environment: 1
+}
+item {
+  name: "/p/plaza"
+  label: 270
+  display_name: "plaza"
+  environment: 2
+}
+item {
+  name: "/p/pond"
+  label: 271
+  display_name: "pond"
+  environment: 2
+}
+item {
+  name: "/p/porch"
+  label: 272
+  display_name: "porch"
+  environment: 2
+}
+item {
+  name: "/p/promenade"
+  label: 273
+  display_name: "promenade"
+  environment: 2
+}
+item {
+  name: "/p/pub/indoor"
+  label: 274
+  display_name: "pub-indoor"
+  environment: 1
+}
+item {
+  name: "/r/racecourse"
+  label: 275
+  display_name: "racecourse"
+  environment: 2
+}
+item {
+  name: "/r/raceway"
+  label: 276
+  display_name: "raceway"
+  environment: 2
+}
+item {
+  name: "/r/raft"
+  label: 277
+  display_name: "raft"
+  environment: 2
+}
+item {
+  name: "/r/railroad_track"
+  label: 278
+  display_name: "railroad_track"
+  environment: 2
+}
+item {
+  name: "/r/rainforest"
+  label: 279
+  display_name: "rainforest"
+  environment: 2
+}
+item {
+  name: "/r/reception"
+  label: 280
+  display_name: "reception"
+  environment: 1
+}
+item {
+  name: "/r/recreation_room"
+  label: 281
+  display_name: "recreation_room"
+  environment: 1
+}
+item {
+  name: "/r/repair_shop"
+  label: 282
+  display_name: "repair_shop"
+  environment: 1
+}
+item {
+  name: "/r/residential_neighborhood"
+  label: 283
+  display_name: "residential_neighborhood"
+  environment: 2
+}
+item {
+  name: "/r/restaurant"
+  label: 284
+  display_name: "restaurant"
+  environment: 1
+}
+item {
+  name: "/r/restaurant_kitchen"
+  label: 285
+  display_name: "restaurant_kitchen"
+  environment: 1
+}
+item {
+  name: "/r/restaurant_patio"
+  label: 286
+  display_name: "restaurant_patio"
+  environment: 2
+}
+item {
+  name: "/r/rice_paddy"
+  label: 287
+  display_name: "rice_paddy"
+  environment: 2
+}
+item {
+  name: "/r/river"
+  label: 288
+  display_name: "river"
+  environment: 2
+}
+item {
+  name: "/r/rock_arch"
+  label: 289
+  display_name: "rock_arch"
+  environment: 2
+}
+item {
+  name: "/r/roof_garden"
+  label: 290
+  display_name: "roof_garden"
+  environment: 2
+}
+item {
+  name: "/r/rope_bridge"
+  label: 291
+  display_name: "rope_bridge"
+  environment: 2
+}
+item {
+  name: "/r/ruin"
+  label: 292
+  display_name: "ruin"
+  environment: 2
+}
+item {
+  name: "/r/runway"
+  label: 293
+  display_name: "runway"
+  environment: 2
+}
+item {
+  name: "/s/sandbox"
+  label: 294
+  display_name: "sandbox"
+  environment: 2
+}
+item {
+  name: "/s/sauna"
+  label: 295
+  display_name: "sauna"
+  environment: 1
+}
+item {
+  name: "/s/schoolhouse"
+  label: 296
+  display_name: "schoolhouse"
+  environment: 2
+}
+item {
+  name: "/s/science_museum"
+  label: 297
+  display_name: "science_museum"
+  environment: 1
+}
+item {
+  name: "/s/server_room"
+  label: 298
+  display_name: "server_room"
+  environment: 1
+}
+item {
+  name: "/s/shed"
+  label: 299
+  display_name: "shed"
+  environment: 2
+}
+item {
+  name: "/s/shoe_shop"
+  label: 300
+  display_name: "shoe_shop"
+  environment: 1
+}
+item {
+  name: "/s/shopfront"
+  label: 301
+  display_name: "shopfront"
+  environment: 2
+}
+item {
+  name: "/s/shopping_mall/indoor"
+  label: 302
+  display_name: "shopping_mall-indoor"
+  environment: 1
+}
+item {
+  name: "/s/shower"
+  label: 303
+  display_name: "shower"
+  environment: 1
+}
+item {
+  name: "/s/ski_resort"
+  label: 304
+  display_name: "ski_resort"
+  environment: 2
+}
+item {
+  name: "/s/ski_slope"
+  label: 305
+  display_name: "ski_slope"
+  environment: 2
+}
+item {
+  name: "/s/sky"
+  label: 306
+  display_name: "sky"
+  environment: 2
+}
+item {
+  name: "/s/skyscraper"
+  label: 307
+  display_name: "skyscraper"
+  environment: 2
+}
+item {
+  name: "/s/slum"
+  label: 308
+  display_name: "slum"
+  environment: 2
+}
+item {
+  name: "/s/snowfield"
+  label: 309
+  display_name: "snowfield"
+  environment: 2
+}
+item {
+  name: "/s/soccer_field"
+  label: 310
+  display_name: "soccer_field"
+  environment: 2
+}
+item {
+  name: "/s/stable"
+  label: 311
+  display_name: "stable"
+  environment: 1
+}
+item {
+  name: "/s/stadium/baseball"
+  label: 312
+  display_name: "stadium-baseball"
+  environment: 2
+}
+item {
+  name: "/s/stadium/football"
+  label: 313
+  display_name: "stadium-football"
+  environment: 2
+}
+item {
+  name: "/s/stadium/soccer"
+  label: 314
+  display_name: "stadium-soccer"
+  environment: 2
+}
+item {
+  name: "/s/stage/indoor"
+  label: 315
+  display_name: "stage-indoor"
+  environment: 1
+}
+item {
+  name: "/s/stage/outdoor"
+  label: 316
+  display_name: "stage-outdoor"
+  environment: 2
+}
+item {
+  name: "/s/staircase"
+  label: 317
+  display_name: "staircase"
+  environment: 1
+}
+item {
+  name: "/s/storage_room"
+  label: 318
+  display_name: "storage_room"
+  environment: 1
+}
+item {
+  name: "/s/street"
+  label: 319
+  display_name: "street"
+  environment: 2
+}
+item {
+  name: "/s/subway_station/platform"
+  label: 320
+  display_name: "subway_station-platform"
+  environment: 1
+}
+item {
+  name: "/s/supermarket"
+  label: 321
+  display_name: "supermarket"
+  environment: 1
+}
+item {
+  name: "/s/sushi_bar"
+  label: 322
+  display_name: "sushi_bar"
+  environment: 1
+}
+item {
+  name: "/s/swamp"
+  label: 323
+  display_name: "swamp"
+  environment: 2
+}
+item {
+  name: "/s/swimming_hole"
+  label: 324
+  display_name: "swimming_hole"
+  environment: 1
+}
+item {
+  name: "/s/swimming_pool/indoor"
+  label: 325
+  display_name: "swimming_pool-indoor"
+  environment: 1
+}
+item {
+  name: "/s/swimming_pool/outdoor"
+  label: 326
+  display_name: "swimming_pool-outdoor"
+  environment: 2
+}
+item {
+  name: "/s/synagogue/outdoor"
+  label: 327
+  display_name: "synagogue-outdoor"
+  environment: 2
+}
+item {
+  name: "/t/television_room"
+  label: 328
+  display_name: "television_room"
+  environment: 1
+}
+item {
+  name: "/t/television_studio"
+  label: 329
+  display_name: "television_studio"
+  environment: 1
+}
+item {
+  name: "/t/temple/asia"
+  label: 330
+  display_name: "temple-asia"
+  environment: 2
+}
+item {
+  name: "/t/throne_room"
+  label: 331
+  display_name: "throne_room"
+  environment: 1
+}
+item {
+  name: "/t/ticket_booth"
+  label: 332
+  display_name: "ticket_booth"
+  environment: 1
+}
+item {
+  name: "/t/topiary_garden"
+  label: 333
+  display_name: "topiary_garden"
+  environment: 2
+}
+item {
+  name: "/t/tower"
+  label: 334
+  display_name: "tower"
+  environment: 2
+}
+item {
+  name: "/t/toyshop"
+  label: 335
+  display_name: "toyshop"
+  environment: 1
+}
+item {
+  name: "/t/train_interior"
+  label: 336
+  display_name: "train_interior"
+  environment: 1
+}
+item {
+  name: "/t/train_station/platform"
+  label: 337
+  display_name: "train_station-platform"
+  environment: 1
+}
+item {
+  name: "/t/tree_farm"
+  label: 338
+  display_name: "tree_farm"
+  environment: 2
+}
+item {
+  name: "/t/tree_house"
+  label: 339
+  display_name: "tree_house"
+  environment: 2
+}
+item {
+  name: "/t/trench"
+  label: 340
+  display_name: "trench"
+  environment: 2
+}
+item {
+  name: "/t/tundra"
+  label: 341
+  display_name: "tundra"
+  environment: 2
+}
+item {
+  name: "/u/underwater/ocean_deep"
+  label: 342
+  display_name: "underwater-ocean_deep"
+  environment: 2
+}
+item {
+  name: "/u/utility_room"
+  label: 343
+  display_name: "utility_room"
+  environment: 1
+}
+item {
+  name: "/v/valley"
+  label: 344
+  display_name: "valley"
+  environment: 2
+}
+item {
+  name: "/v/vegetable_garden"
+  label: 345
+  display_name: "vegetable_garden"
+  environment: 2
+}
+item {
+  name: "/v/veterinarians_office"
+  label: 346
+  display_name: "veterinarians_office"
+  environment: 1
+}
+item {
+  name: "/v/viaduct"
+  label: 347
+  display_name: "viaduct"
+  environment: 2
+}
+item {
+  name: "/v/village"
+  label: 348
+  display_name: "village"
+  environment: 2
+}
+item {
+  name: "/v/vineyard"
+  label: 349
+  display_name: "vineyard"
+  environment: 2
+}
+item {
+  name: "/v/volcano"
+  label: 350
+  display_name: "volcano"
+  environment: 2
+}
+item {
+  name: "/v/volleyball_court/outdoor"
+  label: 351
+  display_name: "volleyball_court-outdoor"
+  environment: 2
+}
+item {
+  name: "/w/waiting_room"
+  label: 352
+  display_name: "waiting_room"
+  environment: 1
+}
+item {
+  name: "/w/water_park"
+  label: 353
+  display_name: "water_park"
+  environment: 2
+}
+item {
+  name: "/w/water_tower"
+  label: 354
+  display_name: "water_tower"
+  environment: 2
+}
+item {
+  name: "/w/waterfall"
+  label: 355
+  display_name: "waterfall"
+  environment: 2
+}
+item {
+  name: "/w/watering_hole"
+  label: 356
+  display_name: "watering_hole"
+  environment: 2
+}
+item {
+  name: "/w/wave"
+  label: 357
+  display_name: "wave"
+  environment: 2
+}
+item {
+  name: "/w/wet_bar"
+  label: 358
+  display_name: "wet_bar"
+  environment: 1
+}
+item {
+  name: "/w/wheat_field"
+  label: 359
+  display_name: "wheat_field"
+  environment: 2
+}
+item {
+  name: "/w/wind_farm"
+  label: 360
+  display_name: "wind_farm"
+  environment: 2
+}
+item {
+  name: "/w/windmill"
+  label: 361
+  display_name: "windmill"
+  environment: 2
+}
+item {
+  name: "/y/yard"
+  label: 362
+  display_name: "yard"
+  environment: 2
+}
+item {
+  name: "/y/youth_hostel"
+  label: 363
+  display_name: "youth_hostel"
+  environment: 1
+}
+item {
+  name: "/z/zen_garden"
+  label: 364
+  display_name: "zen_garden"
+  environment: 2
+}
